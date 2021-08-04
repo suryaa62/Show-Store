@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "612065613222",
+    "firebase_url": "https://sillynamemaker-c0880.firebaseio.com",
+    "project_id": "sillynamemaker-c0880",
+    "storage_bucket": "sillynamemaker-c0880.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612065613222:android:18d6aa433a46831da8eb67",
+        "android_client_info": {
+          "package_name": "com.suryaa62.gtk_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612065613222-7gdb0bk2937bf8rqeaqqa6hlnpat4hg8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTb46AorYFqG2shshpg5X8iomvmFWXikc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612065613222-7gdb0bk2937bf8rqeaqqa6hlnpat4hg8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612065613222:android:2961d113d5396668a8eb67",
+        "android_client_info": {
+          "package_name": "com.suryaa62.nike_shoe_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612065613222-7gdb0bk2937bf8rqeaqqa6hlnpat4hg8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTb46AorYFqG2shshpg5X8iomvmFWXikc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612065613222-7gdb0bk2937bf8rqeaqqa6hlnpat4hg8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
