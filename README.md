@@ -2,5 +2,6 @@
 
 A new Flutter project.
 
-App Video: 
+##App Video: 
+
 ![alt text](https://github.com/suryaa62/Show-Store/blob/master/AppGif.gif "App Video")
