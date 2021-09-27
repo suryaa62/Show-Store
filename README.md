@@ -1,6 +1,7 @@
 # nike_shoe_store
 
-A new Flutter project.
+A flutter project to showcase the UI and animation developing capabilites of flutter app.
+I have used rive animation library for the add item to cart aniamtion.
 
 App Video: 
 
